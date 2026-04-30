@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I build **secure, scalable applications** and enjoy working across the full stack — from backend APIs to clean, user-friendly interfaces.  
+I build **secure, scalable applications** and enjoy working across the full stack from backend APIs to clean, user-friendly interfaces.  
 
 I’m particularly interested in:
 - 🔐 Backend Security & API Protection  
